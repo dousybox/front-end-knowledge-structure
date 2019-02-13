@@ -7,7 +7,7 @@ module.exports = {
   themeConfig: {
     lastUpdated: "上次更新",
     repo: "dousybox/front-end-knowledge-structure",
-    docsDir: "docs",
+    docsDir: "src",
     editLinks: true,
     editLinkText: "在 GitHub 上编辑此页"
   }
