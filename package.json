@@ -4,8 +4,8 @@
   "description": "front end knowledge structure",
   "private": true,
   "scripts": {
-    "docs:dev": "vuepress dev src",
-    "docs:build": "vuepress build src",
+    "dev": "vuepress dev src",
+    "build": "vuepress build src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Dousy",
