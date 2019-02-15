@@ -132,22 +132,36 @@
 
 ##### npm
 
-### 3 工具
+### 3 其他
 
-#### 3.1 模块定义
+#### 3.1 性能
 
-##### 3.1.1 CommonJS Module Definition (CMD)
+#### 3.2 安全
 
-##### 3.1.2 Asynchronous Module Definition (AMD)
+#### 3.3 工具
 
-##### 3.1.3 Universal Module Definition (UMD)
+##### 3.3.1 模块化工具
 
-#### 3.2 grunt/gulp
+##### 3.3.1.1 CommonJS Module Definition (CMD)
 
-#### 3.3 babel
+##### 3.3.1.2 Asynchronous Module Definition (AMD)
 
-#### 3.4 TypeScript
+##### 3.3.1.3 Universal Module Definition (UMD)
 
-#### 3.5 webpack
+#### 3.3.2 任务工具
 
-#### 3.6 rollup.js
+##### 3.3.2.1 grunt
+
+##### 3.3.2.2 gulp
+
+#### 3.3.3 转译工具
+
+##### 3.3.3.1 babel
+
+##### 3.3.3.2 TypeScript
+
+#### 3.3.4 打包工具
+
+##### 3.3.4.1 webpack
+
+##### 3.3.4.2 rollup.js
